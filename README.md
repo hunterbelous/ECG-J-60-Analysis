@@ -11,7 +11,6 @@ Typical use is qualitative review of repolarization patterns (for example, stres
 ## Visualization
 
 ![ST Windows (J and J+60 ms)](figures/st_windows_st_clinical_gated_norm.gif)  
-If the GIF does not render, open it directly: figures/st_windows_st_clinical_gated_norm.gif
 
 ---
 
